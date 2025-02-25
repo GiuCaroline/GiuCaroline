@@ -77,9 +77,9 @@
 <h3 align="center">⚡ Github Status</h3>
 <br>
 <div align="center">
-<img width="380" src="https://github-readme-stats.vercel.app/api?username=GiuCaroline&count_private=true&show_icons=true&theme=tokyonight&rank_icon=github&border_radius=10"/>
+<img width="380" src="https://github-readme-stats.vercel.app/api?username=GiuCaroline&count_private=true&show_icons=true&theme=radical&rank_icon=github&border_radius=10"/>
 
-  <img width="340" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GiuCaroline&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages">
+  <img width="340" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GiuCaroline&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages">
 </div>
 
 <br/><br/>
@@ -108,7 +108,7 @@
   <h3>⭐️ Top Repositories</h3>
   <div style="display: flex; justify-content: center; gap: 10px;">
     <a href="https://github.com/GiuCaroline/CollectExpress">
-        <img width=395 src="https://github-readme-stats.vercel.app/api/pin/?username=GiuCaroline&repo=CollectExpress&theme=tokyonight" /></a>
+        <img width=395 src="https://github-readme-stats.vercel.app/api/pin/?username=GiuCaroline&repo=CollectExpress&theme=radical" /></a>
    
 </div>
 
