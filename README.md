@@ -104,9 +104,11 @@
 
 
 <!-- top repo and teck stack-->
+<br/>
+<div align="center">
+  <img src="https://nirzak-streak-stats.vercel.app/?user=GiuCaroline&theme=radical&hide_border=false" alt="Streak Stats">
+</div>
 
- ![](https://nirzak-streak-stats.vercel.app/?user=GiuCaroline&theme=radical&hide_border=false)<br/>
-  
 
 
 
