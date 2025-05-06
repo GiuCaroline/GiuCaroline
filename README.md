@@ -105,10 +105,9 @@
 
 <!-- top repo and teck stack-->
 <div align="center">
-  <h3>⭐️ Top Repositories</h3>
   <div style="display: flex; justify-content: center; gap: 10px;">
     <a href="https://github.com/GiuCaroline/CollectExpress">
-        <img width=395 src="https://github-readme-stats.vercel.app/api/pin/?username=GiuCaroline&repo=CollectExpress&theme=radical" /></a>
+        <img width=395 src="![](https://nirzak-streak-stats.vercel.app/?user=GiuCaroline&theme=radical&hide_border=false)<br/>" /></a>
    
 </div>
 
