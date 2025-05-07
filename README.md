@@ -29,7 +29,7 @@
 
 
 <a href="https://github.com/Giucaroline/GiuCaroline/blob/main/me.gif">
-  <img src="https://github.com/GiuCaroline/GiuCaroline/blob/main/me.gif" alt="Me GIF" style="width:1050px; height:600px"/>
+  <img src="https://github.com/GiuCaroline/GiuCaroline/blob/main/me.gif" alt="Me GIF" style="width:1050px; height:500px"/>
 </a>
 
 <!-- Greeting -->
