@@ -28,15 +28,15 @@
 
 
 
-<a href="https://github.com/Giucaroline/GiuCaroline/blob/main/mario.gif">
-  <img src="https://github.com/GiuCaroline/GiuCaroline/blob/main/mario.gif" alt="Mario GIF" style="width:auto; height:auto"/>
+<a href="https://github.com/Giucaroline/GiuCaroline/blob/main/me.gif">
+  <img src="https://github.com/GiuCaroline/GiuCaroline/blob/main/me.gif" alt="Me GIF" style="width:1050px; height:600px"/>
 </a>
 
 <!-- Greeting -->
 </h1>
 <h1 align="center">Olá, meu nome é Giulia!</h1>
 
-<h4 align="left">🌟Sou estudante de Desenvolvimento de Software Multiplataforma e formada como técnica em Informática. Meu foco é o aprendizado, buscando aprender algo novo a cada dia.</h4>
+<h4 align="left">Sou estudante de Desenvolvimento de Software Multiplataforma e formada como técnica em Informática. Meu foco é o aprendizado, buscando aprender algo novo a cada dia.</h4>
 
 
 
@@ -46,16 +46,16 @@
 
 
 <!-- about me -->
- <h3 align="left">💫 Sobre mim</h3>
+ <h3 align="left">Sobre mim</h3>
 
 
 
 <!--<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 <div align="left">-->
 <h4> 
-  🌱 Atualmente estou desenvolvendo minhas habilidades de programação mobile.</br>
- 🔭 Eu trabalho com Suporte de TI.</br>
- ⚡ Tenho interesse em cybersecurity, machine learning, aws e desenvolvimento Full Stack.</br></h4> <div align="left"> 
+   Atualmente estou desenvolvendo minhas habilidades de programação mobile.</br>
+   Eu trabalho com Suporte de TI.</br>
+   Tenho interesse em cybersecurity, machine learning, aws e desenvolvimento Full Stack.</br></h4> <div align="left"> 
 
 
   
@@ -74,7 +74,7 @@
 
 
 <!-- git stat-->
-<h3 align="center">⚡ Github Status</h3>
+<h3 align="center">Github Status</h3>
 <br>
 <div align="center">
 <img width="380" src="https://github-readme-stats.vercel.app/api?username=GiuCaroline&count_private=true&show_icons=true&theme=radical&rank_icon=github&border_radius=10"/>
@@ -87,7 +87,7 @@
 
 
 <!-- lang-->
-<h3 align="center">📚 Ferramentas e linguagens </h3>
+<h3 align="center">Ferramentas e linguagens </h3>
 
 <br/>
 
@@ -102,12 +102,18 @@
 
 
 
-
+<h3 align="center">Commits </h3>
 <!-- top repo and teck stack-->
 <br/>
 <div align="center">
   <img src="https://nirzak-streak-stats.vercel.app/?user=GiuCaroline&theme=radical&hide_border=false" alt="Streak Stats">
 </div>
+
+<br/>
+<br/>
+<a href="https://github.com/Giucaroline/GiuCaroline/blob/main/mario.gif">
+  <img src="https://github.com/GiuCaroline/GiuCaroline/blob/main/mario.gif" alt="Mario GIF" style="width:auto; height:auto"/>
+</a>
 
 
 
