@@ -40,8 +40,6 @@
 
 
 
-    
-<!--👀VIEWS / 🌐WEBSITE: https://github.com/antonkomarev/github-profile-views-counter -->
 <img align="right" alt="coding-gif" width="400" src="https://github.com/GiuCaroline/GiuCaroline/blob/main/user.gif">
 
 
@@ -53,7 +51,7 @@
 <!--<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 <div align="left">-->
 <h4> 
-   Atualmente estou desenvolvendo minhas habilidades de programação mobile.</br>
+   Atualmente estou desenvolvendo minhas habilidades de programação web e node.js.</br>
    Eu trabalho com Suporte de TI.</br>
    Tenho interesse em cybersecurity, machine learning, aws e desenvolvimento Full Stack.</br></h4> <div align="left"> 
 
@@ -77,9 +75,9 @@
 <h3 align="center">Github Status</h3>
 <br>
 <div align="center">
-<img width="380" src="https://github-readme-stats.vercel.app/api?username=GiuCaroline&count_private=true&show_icons=true&theme=radical&rank_icon=github&border_radius=10"/>
+<img width="420" src="https://github-readme-stats.vercel.app/api?username=GiuCaroline&count_private=true&show_icons=true&theme=radical&rank_icon=github&border_radius=10"/>
 
-  <img width="340" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GiuCaroline&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages">
+  <img width="320" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GiuCaroline&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages">
 </div>
 
 <br/><br/>
