@@ -51,8 +51,8 @@
 <!--<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 <div align="left">-->
 <h4> 
-   Atualmente estou desenvolvendo minhas habilidades de programação web e node.js.</br>
-   Eu trabalho com Suporte de TI.</br>
+   Atualmente estou desenvolvendo minhas habilidades de programação web.</br>
+   Eu trabalho com Desenvolvimento de Software.</br>
    Tenho interesse em cybersecurity, machine learning, aws e desenvolvimento Full Stack.</br></h4> <div align="left"> 
 
 
