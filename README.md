@@ -94,6 +94,7 @@
     <img src="https://skillicons.dev/icons?i=figma,python,javascript,mysql,java" /><br>
     <img src="https://skillicons.dev/icons?i=c,visualstudio,eclipse,php,flutter" /><br>
     <img src="https://skillicons.dev/icons?i=dart,replit,windows,linux,bootstrap" /><br>
+    <img src="https://skillicons.dev/icons?i=react,cs,dotnet,tailwind,nodejs" /><br>
 </div>
 
 <br/>
