@@ -71,19 +71,6 @@
 
 
 
-<!-- git stat-->
-<h3 align="center">Github Status</h3>
-<br>
-<div align="center">
-<img width="420" src="https://github-readme-stats.vercel.app/api?username=GiuCaroline&count_private=true&show_icons=true&theme=radical&rank_icon=github&border_radius=10"/>
-
-  <img width="320" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GiuCaroline&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages">
-</div>
-
-<br/><br/>
-
-
-
 <!-- lang-->
 <h3 align="center">Ferramentas e linguagens </h3>
 
