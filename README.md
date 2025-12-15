@@ -27,11 +27,9 @@
 <img width="100%" src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=40&center=true&vCenter=true&width=800&height=70&duration=4000&lines=Hello!+👋;+MASTERJUDAH+here+🔥+!;"  alt="Typing Animation" style="width:100%"/>-->
 
 
-
-<a href="https://github.com/Giucaroline/GiuCaroline/blob/main/me.gif">
-  <img src="https://github.com/GiuCaroline/GiuCaroline/blob/main/me.gif" alt="Me GIF" style="width:1050px; height:500px"/>
-</a>
-
+<div align="center">
+  <img src="https://github.com/GiuCaroline/GiuCaroline/raw/main/Eu.gif" alt="Me GIF" />
+</div>
 <!-- Greeting -->
 </h1>
 <h1 align="center">Olá, meu nome é Giulia!</h1>
