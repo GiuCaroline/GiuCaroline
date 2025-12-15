@@ -40,7 +40,7 @@
 
 
 
-<img align="right" alt="coding-gif" width="400" src="https://github.com/GiuCaroline/GiuCaroline/blob/main/user.gif">
+<img align="right" alt="coding-gif" width="400" src="https://github.com/GiuCaroline/GiuCaroline/blob/main/gifeu.gif">
 
 
 <!-- about me -->
