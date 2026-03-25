@@ -89,7 +89,7 @@
 <!-- top repo and teck stack-->
 <br/>
 <div align="center">
-  <img src="https://nirzak-streak-stats.vercel.app/?user=GiuCaroline&theme=radical&hide_border=false" alt="Streak Stats">
+  <img src="https://streak-stats.demolab.com?user=GiuCaroline&theme=radical&hide_border=true&locale=pt" alt="GitHub Streak" />
 </div>
 
 <br/>
