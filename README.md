@@ -77,8 +77,8 @@
 <div align="center">
   <img src="https://skillicons.dev/icons?i=html,css,vscode,github,git,tailwind" /><br>
     <img src="https://skillicons.dev/icons?i=figma,python,javascript,mysql,java,react" /><br>
-    <img src="https://skillicons.dev/icons?i=c,visualstudio,eclipse,php,flutter,cs" /><br>
-    <img src="https://skillicons.dev/icons?i=dart,replit,windows,linux,bootstrap,dotnet" /><br>
+    <img src="https://skillicons.dev/icons?i=c,visualstudio,eclipse,php,notion,cs" /><br>
+    <img src="https://skillicons.dev/icons?i=angular,replit,windows,linux,bootstrap,dotnet" /><br>
 </div>
 
 <br/>
