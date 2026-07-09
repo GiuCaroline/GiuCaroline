@@ -86,45 +86,20 @@
 
 
 <h3 align="center">Commits </h3>
-<!-- top repo and teck stack-->
+
 <br/>
+
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=GiuCaroline&theme=radical&hide_border=true&locale=pt" alt="GitHub Streak" />
 </div>
 
 <br/>
+
 <br/>
+
 <a href="https://github.com/Giucaroline/GiuCaroline/blob/main/mario.gif">
   <img src="https://github.com/GiuCaroline/GiuCaroline/blob/main/mario.gif" alt="Mario GIF" style="width:auto; height:auto"/>
 </a>
-
-
-
-
-
-<!--<h3>⭐ Top Contributed Repo!</h3>
-       <br/>
-      <img src="https://github-contributor-stats.vercel.app/api?username=GiuCaroline&limit=5&theme=transparent&combine_all_yearly_contributions=true" alt="Top Contributed Repo">
-      <br/>-->
-
-
-
-
-<!-- support 
-<h3 align="center">Support Me 💰 </h3>
-
-<p align="center">
-  <a href="https://www.buymeacoffee.com/GiuCaroline"> <img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="40" width="180" alt="GiuCaroline" /></a>
- <!-- <a href="https://buymeacoffee.com/GiuCaroline">
-    <img align="center" width="200px" src="https://img.shields.io/badge/Buy%20Me%20A%20Coffee-F7B42C?style=for-the-badge&logo=buy-me-a-coffee&logoColor=white" alt="Buy Me A Coffee"></a>
-</p>-->
-
-
-<!--<h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=800&height=70&duration=4000&lines=Thank+You!+👍;+for+your+visit+📱+!;" />
-</h1>-->
-
-
 
 <!-- ending-->
 
